@@ -13,7 +13,7 @@ public class FunRestController {
 
     @GetMapping("/workout")
     public String getDailyWotkout(){
-        return "Run hard 5k!";
+        return "Today you rest!";
     }
 
     @GetMapping("/fortune")

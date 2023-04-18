@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/03-actuator-demo/pom.xml" />
         <option value="$PROJECT_DIR$/02-dev-tools-demo/pom.xml" />
         <option value="$PROJECT_DIR$/01-spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-actuator-secutiry-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/05-command-line-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/06-properties-demo/pom.xml" />
       </list>
     </option>
   </component>

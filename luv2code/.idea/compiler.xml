@@ -11,6 +11,7 @@
         <module name="mycoolapp (2)" />
         <module name="mycoolapp (3)" />
         <module name="mycoolapp (1)" />
+        <module name="springcoredemo" />
         <module name="mycoolapp (6)" />
       </profile>
     </annotationProcessing>
@@ -20,13 +21,13 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mycoolapp" options="-parameters" />
       <module name="mycoolapp (1)" options="-parameters" />
       <module name="mycoolapp (2)" options="-parameters" />
       <module name="mycoolapp (3)" options="-parameters" />
       <module name="mycoolapp (4)" options="-parameters" />
       <module name="mycoolapp (5)" options="-parameters" />
       <module name="mycoolapp (6)" options="-parameters" />
+      <module name="springcoredemo" options="-parameters" />
     </option>
   </component>
 </project>
