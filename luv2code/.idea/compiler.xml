@@ -11,6 +11,7 @@
         <module name="mycoolapp (2)" />
         <module name="mycoolapp (3)" />
         <module name="mycoolapp (1)" />
+        <module name="demo" />
         <module name="mycoolapp (6)" />
         <module name="springcoredemo (8)" />
         <module name="cruddemo" />
@@ -32,6 +33,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cruddemo" options="-parameters" />
+      <module name="demo" options="-parameters" />
       <module name="mycoolapp (1)" options="-parameters" />
       <module name="mycoolapp (2)" options="-parameters" />
       <module name="mycoolapp (3)" options="-parameters" />
